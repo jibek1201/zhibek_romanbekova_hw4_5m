@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zhibek_romanbekova_hw4_5m</string>
+    <string name="love_calculator">\n\n\n\n\n\n\n</string>
+    <string name="enter_boy_name" />
+    <string name="enter_girl_name" />
+    <string name="calculate" />
+    <string name="gvanhi">\n</string>
+    <string name="heason" />
+    <string name="_100" />
+    <string name="without_a_doubt" />
+    <string name="your_love_match" />
+</resources>
